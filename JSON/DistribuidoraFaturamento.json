@@ -1,0 +1,30 @@
+[
+  {
+    "dia": 1,
+    "FaturamentoDiario": 1000.0
+  },
+  {
+    "dia": 2,
+    "FaturamentoDiario": 1200.0
+  },
+  {
+    "dia": 3,
+    "FaturamentoDiario": 0.0
+  },
+  {
+    "dia": 4,
+    "FaturamentoDiario": 1400.0
+  },
+  {
+    "dia": 5,
+    "FaturamentoDiario": 0.0
+  },
+  {
+    "dia": 6,
+    "FaturamentoDiario": 1600.0
+  },
+  {
+    "dia": 7,
+    "FaturamentoDiario": 900.0
+  }
+]
